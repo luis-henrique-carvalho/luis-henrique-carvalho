@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-
-Proudly born in Brazil, I'm a Bahian hailing from the charming city of Sátiro Dias. My journey into the world of programming began 2 years ago, and since then, I've been navigating this path with passion and dedication.
-
 * 🖥️  See my portfolio at [<LuisDev>](http://https://meu-site-flax.vercel.app/)
 * ✉️  You can contact me at [luisdev9225@gmail.com](mailto:luisdev9225@gmail.com)
 * 🚀  I'm currently working on [Avantsoft](http://https://www.linkedin.com/company/avantsoft/mycompany/)
