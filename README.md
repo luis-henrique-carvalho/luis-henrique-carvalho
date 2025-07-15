@@ -5,7 +5,7 @@ Software Developer
 ------------------
 * 🖥️  See my portfolio at [<LuisDev>](http://https://meu-site-flax.vercel.app/)
 * ✉️  You can contact me at [luisdev9225@gmail.com](mailto:luisdev9225@gmail.com)
-* 🚀  I'm currently working on [Avantsoft](http://https://www.linkedin.com/company/avantsoft/mycompany/)
+* 🚀  I'm currently working on [Ilegra](https://www.ilegra.com/pt)
 * 🧠  I'm learning Ruby on Rails, AWV, Docker, Microservices
 * ⚡  I'm a firm believer in the power of code to transform ideas into reality. Let's connect, innovate, and make a lasting impact on the digital landscape. Together, we can code a brighter future!
 
