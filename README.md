@@ -9,6 +9,8 @@ Software Developer
 * 🧠  I'm learning Ruby on Rails, AWS, Docker, Microservices
 * ⚡  I'm a firm believer in the power of code to transform ideas into reality. Let's connect, innovate, and make a lasting impact on the digital landscape. Together, we can code a brighter future!
 
+[![roadmap.sh](https://roadmap.sh/card/tall/64a47f53ec22530247ed61ca?variant=dark&roadmaps=%2Csystem-design)](https://roadmap.sh)
+
 ### Skills
 
 
