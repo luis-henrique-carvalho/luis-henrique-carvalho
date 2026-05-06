@@ -68,14 +68,8 @@ I'm a software developer focused on building practical, scalable, and user-cente
 
 ## GitHub Stats
 
-<a href="https://www.github.com/Luis-henrique-carvalho">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis-henrique-carvalho&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" alt="Luis Henrique's GitHub stats" />
-</a>
+[![Luis Henrique's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luis-henrique-carvalho&theme=github_dark)](https://github.com/Luis-henrique-carvalho)
 
-<a href="https://www.github.com/Luis-henrique-carvalho">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-henrique-carvalho&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Luis Henrique's GitHub streak" />
-</a>
+[![Luis Henrique's GitHub streak](https://streak-stats.demolab.com?user=Luis-henrique-carvalho&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/Luis-henrique-carvalho">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-henrique-carvalho&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
-</a>
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luis-henrique-carvalho&theme=github_dark)](https://github.com/Luis-henrique-carvalho)
