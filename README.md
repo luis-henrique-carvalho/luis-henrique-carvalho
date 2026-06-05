@@ -11,7 +11,7 @@ I'm a software developer focused on building practical, scalable, and user-cente
 
 - Portfolio: [LuisDev](https://luis-henrique-dev.vercel.app)
 - Email: [luisdev9225@gmail.com](mailto:luisdev9225@gmail.com)
-- Currently working at [Riachuelo](https://www.linkedin.com/company/riachuelo))
+- Currently working at [Riachuelo](https://www.linkedin.com/company/riachuelo)
 - Currently learning Golang, AWS and Microservices
 - I believe code can transform ideas into real, meaningful products
 
